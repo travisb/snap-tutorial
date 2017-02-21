@@ -108,4 +108,4 @@ mailing list where you will probably receive help very quick. You can find the
 contact information on the [about](http://snapframework.com/about) page of the
 framework.
 
-[Next chapter: Basic infrastructure](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter2.md)
+[Next chapter: Basic infrastructure](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter-02.md)

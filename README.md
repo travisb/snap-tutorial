@@ -161,13 +161,13 @@ chapters, which can be read consecutively. But as they are not depending each
 other it is also possible to jump between them or just to pick the one that
 looks most interesting to you. The tutorial is structured as follows:
 
-1. [First steps with Snap](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter1.md) -
+1. [First steps with Snap](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter-01.md) -
    how a Snap application can be created
 
-2. [Basic infrastructure](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter2.md) -
+2. [Basic infrastructure](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter-02.md) -
    how a simple Snap application looks like
 
-3. [Routing and static serving](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter3.md) -
+3. [Routing and static serving](https://github.com/J-Hannes/snap-tutorial/blob/master/chapter-03.md) -
    how Snap serves (static) web pages
 
 4. Heist - use the full power of dynamic templating
